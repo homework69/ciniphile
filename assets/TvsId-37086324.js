@@ -1,0 +1,1 @@
+import{_ as e}from"./ContentId-89af1ed3.js";import{o as t,c as a,a as o}from"./index-cb94f650.js";const m={__name:"TvsId",setup(r){return(c,s)=>(t(),a("div",null,[o(e,{type:"tv"})]))}};export{m as default};
